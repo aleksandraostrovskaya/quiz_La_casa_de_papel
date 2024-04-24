@@ -5,7 +5,7 @@ body {
   font-family: 'Nunito', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #6a5be2;
+  background-color: #800000;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -29,7 +29,7 @@ body {
       border: 0;
       padding: 15px 30px;
       font-size: 20px;
-      background-color: darken(#ff006e, 3%);
+      background-color: darken(#FF0000, 3%);
       color: #fff;
       margin-top: 20px;
       cursor: pointer;
@@ -56,7 +56,7 @@ body {
       width: 80%;
       background: rgb(18, 231, 48);
       transition: all 0.3s ease-in-out;
-      background: linear-gradient(90deg, rgba(18, 231, 48, 1) 0%, rgba(0, 212, 255, 1) 100%);
+      background: linear-gradient(90deg, rgba(20,3,3,1) 0%, rgba(76,16,20,1) 41%, rgba(129,23,31,1) 61%, rgba(177,43,43,1) 100%);
     }
   }
 
